@@ -1,0 +1,20 @@
+.UOR{
+    height: 150px;
+    border-radius: 35%;
+}
+
+.nextSet{
+    padding-top: 2%;
+}
+
+.AL{
+    text-align: left;
+}
+
+.mySet{
+    padding:2% 2% 2% 2%;
+    backdrop-filter: blur(10px);
+    border-radius: 100px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+

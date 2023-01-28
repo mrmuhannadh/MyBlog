@@ -1,0 +1,17 @@
+.logoFooter{
+    max-width: 75%;
+    border-radius: 50%;
+    padding-left: 5%;
+}
+
+.myFooter{
+    margin-top: 3%;
+    padding-top: 3%;
+    left:2%;    
+    background-color: #D0D0D0;
+    padding-bottom: 3%;
+}
+
+.myListFooter{
+    text-align: left;
+}

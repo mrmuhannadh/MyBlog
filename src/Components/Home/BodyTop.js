@@ -17,13 +17,13 @@ const BodyTop = () => {
                             Undergraduate at Univeristy of Ruhuna, Sri Lanka
                         </p>
                         <p className='text-left py-4'>
-                            I am Mohamed Razick Muhannadh from Kandy, Sri Lanka. I am currently reading Information and Communication Technology(Hons) Degree at 
-                            Faculty of Technology, Univeristy of Ruhuna. 
-                            <br/>
+                            I am Mohamed Razick Muhannadh from Kandy, Sri Lanka. I am currently reading Information and Communication Technology(Hons) Degree at
+                            Faculty of Technology, Univeristy of Ruhuna.
+                            <br />
                         </p>
                         <p>
-                            A good, creative, self-driven person who consistently worked on the task at hand to finish it in the allotted time. 
-                            I aspire to have a career where I will experience new challenges at every point of work and would convert all my abilities, knowledge, and 
+                            A good, creative, self-driven person who consistently worked on the task at hand to finish it in the allotted time.
+                            I aspire to have a career where I will experience new challenges at every point of work and would convert all my abilities, knowledge, and
                             interest into a meaningful contribution to the company
                         </p>
                     </div>
