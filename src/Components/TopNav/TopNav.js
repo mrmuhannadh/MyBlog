@@ -7,7 +7,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 import './style.css'
-import img from '../../images/myimage.jpg'
+import img from '../../images/myimage.PNG'
 
 const TopNav = () => {
   return (
