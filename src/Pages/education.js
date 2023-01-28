@@ -16,7 +16,7 @@ const EducationPage = () => {
             }}
         >
             <TopNav />
-            <TopEdu/>
+            <TopEdu />
             <Slider />
             <Current />
             <Footer />

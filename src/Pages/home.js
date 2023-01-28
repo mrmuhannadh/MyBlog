@@ -15,7 +15,7 @@ const Home = () => {
                     backgroundPosition: 'center',
                     backgroundSize: 'cover',
                     backgroundRepeat: 'no-repeat'
-                    
+
                 }}
                 className='HomeBgClass'
             >
@@ -30,8 +30,8 @@ const Home = () => {
             >
                 <MoreAboutMe />
                 <h2>Certificates</h2>
-                <Slider/>
-                <Footer/>
+                <Slider />
+                <Footer />
             </div>
         </div>
 
