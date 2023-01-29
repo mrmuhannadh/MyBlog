@@ -63,32 +63,38 @@ const MoreAboutMe = () => {
                                         mrmuhannadh@gmail.com
                                     </td>
                                 </tr>
-                                <br/>
+                                <br />
                                 <tr className='myRow'>
                                     <td colSpan={2}>
                                         <div className='row'>
                                             <div className='col-md-2'>
-                                                <Icon.Linkedin size={30}/>
+                                                <a href="https://www.linkedin.com/in/razick-muhannadh" className='myLink' target="_blank" rel="noopener noreferrer">
+                                                    <Icon.Linkedin size={30} />
+                                                </a>
                                             </div>
                                             <div className='col-md-2'>
-                                                <Icon.Facebook size={30}/>
+                                                <Icon.Facebook size={30} />
                                             </div>
                                             <div className='col-md-2'>
-                                                <Icon.Instagram size={30}/>
+                                                <Icon.Instagram size={30} />
                                             </div>
                                             <div className='col-md-2'>
-                                                <Icon.Twitter size={30}/>
+                                                <Icon.Twitter size={30} />
                                             </div>
                                             <div className='col-md-2'>
-                                                <Icon.Github size={30}/>
+                                                <a href="https://github.com/mrmuhannadh" className='myLink' target="_blank" rel="noopener noreferrer">
+                                                    <Icon.Github size={30} />
+                                                </a>
                                             </div>
                                             <div className='col-md-2'>
-                                                <Icon.Youtube size={30}/>
+                                                <a href="https://www.youtube.com/@mnhtechidea4291" className='myLink' target="_blank" rel="noopener noreferrer">
+                                                    <Icon.Youtube size={30} />
+                                                </a>
                                             </div>
                                         </div>
                                     </td>
                                 </tr>
-                                
+
                             </tbody>
                         </Table>
 

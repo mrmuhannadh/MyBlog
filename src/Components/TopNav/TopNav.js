@@ -36,7 +36,6 @@ const TopNav = () => {
                   <Nav.Link href="/">Home</Nav.Link>
                   <Nav.Link href="/Education">Education</Nav.Link>
                   <Nav.Link href="/Skills">Skills</Nav.Link>
-                  <Nav.Link href="/Projects">Projects</Nav.Link>
                   <NavDropdown
                     title="Dropdown"
                     id={`offcanvasNavbarDropdown-expand-${expand}`}

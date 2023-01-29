@@ -37,12 +37,6 @@ const Footer = () => {
                         <li>
                             <a href='/Skills' className='footerLink'>Skills</a>
                         </li>
-                        <li>
-                            <a href='/Projects' className='footerLink'>Projects</a>
-                        </li>
-                        <li>
-                            <a href='/Education' className='footerLink'>Contact</a>
-                        </li>
                     </ul>
                 </div>
                 <div className='col-md-5'>
