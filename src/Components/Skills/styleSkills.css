@@ -3,6 +3,55 @@
 }
 
 .techSkills{
-    text-align: left;
     color:#707070;
 }
+
+.buttonSkills{
+    background-color: burlywood !important;
+    color: black !important;
+    min-width: 350px;
+    min-height: 65px;
+    backdrop-filter: blur(10px);
+    border-radius: 100px;
+    border: none;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.buttonSkills:hover{
+    background-color: #707070 !important;
+    color: black !important;
+}
+.buttonSkills:focus{
+    background-color: black !important;
+    color:white !important;
+    transition: background-color 2s;
+}
+
+.mySkill{
+    backdrop-filter: blur(5px);
+    border-radius: 50px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin: 1% 1% 1% 1%;
+    max-width: 23%;
+}
+
+.mySkill:hover{
+    backdrop-filter: blur(12px);
+    transition: 1s;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.16), 0 6px 12px rgba(0,0,0,0.23);
+}
+.mySkillName{
+    margin-top: 5%;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.mySkillsRow{
+    max-width: 100%;
+}
+
+.otherLogo{
+    padding-top: 25%;
+    padding-bottom: 15%;
+    max-width: 50%;
+}
+

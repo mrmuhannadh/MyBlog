@@ -9,6 +9,7 @@ import {
 import Home from './Pages/home';
 import EducationPage from './Pages/education';
 import SkillsPage from './Pages/Skills';
+import ProjectsPage from './Pages/projects';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/Education' element={<EducationPage/>}/>
           <Route path='/Skills' element={<SkillsPage/>}/>
+          <Route path='/Projects' element={<ProjectsPage/>}/>
         </Routes>
       </Router>
     </div>

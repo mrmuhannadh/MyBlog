@@ -35,7 +35,10 @@ const Footer = () => {
                             <a href='/Education' className='footerLink'>Education</a>
                         </li>
                         <li>
-                            <a href='/Education' className='footerLink'>Projects</a>
+                            <a href='/Skills' className='footerLink'>Skills</a>
+                        </li>
+                        <li>
+                            <a href='/Projects' className='footerLink'>Projects</a>
                         </li>
                         <li>
                             <a href='/Education' className='footerLink'>Contact</a>
