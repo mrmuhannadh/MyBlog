@@ -14,6 +14,7 @@ import ProjectsPage from './Pages/projects';
 function App() {
   return (
     <div className='App'>
+      <Home/>
       <Router>
         <Routes>
           <Route path='/' element={<Home />} />
