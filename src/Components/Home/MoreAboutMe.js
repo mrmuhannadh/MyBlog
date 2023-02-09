@@ -68,9 +68,7 @@ const MoreAboutMe = () => {
                                     <td colSpan={2}>
                                         <div className='row'>
                                             <div className='col-md-2'>
-                                                <a href="https://www.linkedin.com/in/razick-muhannadh" className='myLink' target="_blank" rel="noopener noreferrer">
-                                                    <Icon.Linkedin size={30} />
-                                                </a>
+                                            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="razick-muhannadh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/razick-muhannadh?trk=profile-badge" className='myLink'><Icon.Linkedin size={30} /></a></div>
                                             </div>
                                             <div className='col-md-2'>
                                                 <Icon.Facebook size={30} />

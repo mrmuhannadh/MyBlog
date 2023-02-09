@@ -6,9 +6,11 @@ import Slider from '../Components/Home/Slider'
 import TopNav from '../Components/TopNav/TopNav'
 import bg from '../images/mybg.jpg'
 
+
 const Home = () => {
     return (
         <div>
+            <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
             <div
                 style={{
                     backgroundImage: `url("https://img.freepik.com/free-photo/office-table-with-cup-coffee-keyboard-notepad_1220-4617.jpg?w=740&t=st=1674907078~exp=1674907678~hmac=f82d205ebb4111a649c5aa40afc88a8b43246fdc924e5bee9d7a55e0e15ea753")`,
@@ -21,7 +23,6 @@ const Home = () => {
             >
                 <TopNav />
                 <BodyTop />
-
             </div>
             <div
                 style={{

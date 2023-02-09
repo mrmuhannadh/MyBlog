@@ -107,3 +107,7 @@
 .myLink{
     color:black !important;
 }
+
+.navText:active{
+    font-weight: bold !important;
+}

@@ -79,16 +79,16 @@ const TechnicalSkills = () => {
                                     <p className='mySkillName'>jQuery</p>
                                 </div>
                                 <div className='col-md-3 g-1 mySkill'>
-                                    <DevIcon icon="c-original" />
-                                    <p className='mySkillName'>C</p>
-                                </div>
-                                <div className='col-md-3 g-1 mySkill'>
                                     <DevIcon icon="html5" />
                                     <p className='mySkillName'>HTML</p>
                                 </div>
                                 <div className='col-md-3 g-1 mySkill'>
                                     <DevIcon icon="css3" />
                                     <p className='mySkillName'>CSS</p>
+                                </div>
+                                <div className='col-md-3 g-1 mySkill'>
+                                    <DevIcon icon="python" />
+                                    <p className='mySkillName'>Python</p>
                                 </div>
                             </div>
                         </div>
@@ -104,11 +104,6 @@ const TechnicalSkills = () => {
                                     <p className='mySkillName'>MSSQL</p>
                                 </div>
                                 <div className='col-md-3 g-1 mySkill'>
-                                    <DevIcon icon="python" />
-                                    <p className='mySkillName'>Python</p>
-                                </div>
-                                <div className='col-md-3 g-1 mySkill'>
-                                    <DevIcon icon="ajax" />
                                     <p className='mySkillName'>AJAX</p>
                                 </div>
                             </div>
@@ -202,7 +197,7 @@ const TechnicalSkills = () => {
                                     <DevIcon icon="eclipse" />
                                     <p className='mySkillName'>Eclipse</p>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
