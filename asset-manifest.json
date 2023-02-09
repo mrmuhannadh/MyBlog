@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyBlog/static/css/main.ebe627bd.css",
+    "main.js": "/MyBlog/static/js/main.99395b19.js",
+    "static/js/787.59ee247b.chunk.js": "/MyBlog/static/js/787.59ee247b.chunk.js",
+    "static/media/mybg.jpg": "/MyBlog/static/media/mybg.0c8e1cc4c26e4ced5d6d.jpg",
+    "static/media/myimage.PNG": "/MyBlog/static/media/myimage.143c4a6d427bc91ee230.PNG",
+    "static/media/ProfessionalDevelopment.PNG": "/MyBlog/static/media/ProfessionalDevelopment.22b13a00ff29bdd71823.PNG",
+    "static/media/AdaGrad.PNG": "/MyBlog/static/media/AdaGrad.7f5daba48744d6443fd8.PNG",
+    "static/media/bulb.gif": "/MyBlog/static/media/bulb.1759f992d335306792e7.gif",
+    "static/media/imun.jpeg": "/MyBlog/static/media/imun.1419a293f54c981d065f.jpeg",
+    "static/media/CloudSkillsChallange.PNG": "/MyBlog/static/media/CloudSkillsChallange.642afa6722e7d1b1660d.PNG",
+    "static/media/UnderstaningBigPicture.PNG": "/MyBlog/static/media/UnderstaningBigPicture.1413c120a6c1a4c464da.PNG",
+    "static/media/LOGO_OF_RUHUNA.jpg": "/MyBlog/static/media/LOGO_OF_RUHUNA.5ad1d2e314bf919589e0.jpg",
+    "static/media/bgEdu.jpg": "/MyBlog/static/media/bgEdu.7e34992b10511dbc241f.jpg",
+    "index.html": "/MyBlog/index.html",
+    "main.ebe627bd.css.map": "/MyBlog/static/css/main.ebe627bd.css.map",
+    "main.99395b19.js.map": "/MyBlog/static/js/main.99395b19.js.map",
+    "787.59ee247b.chunk.js.map": "/MyBlog/static/js/787.59ee247b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe627bd.css",
+    "static/js/main.99395b19.js"
+  ]
+}
